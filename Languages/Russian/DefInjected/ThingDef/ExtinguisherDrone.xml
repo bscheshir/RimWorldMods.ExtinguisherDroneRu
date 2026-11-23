@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<ExtinguisherHunterDrone.label>дрон-огнетушитель</ExtinguisherHunterDrone.label>
+	<ExtinguisherHunterDrone.description>Защитная ловушка, выпускающая дрона-огнетушителя при обнаружении огня поблизости. Полезна для защиты уязвимых помещений и оборудования от пожаров.</ExtinguisherHunterDrone.description>
+
+	<Drone_FirefoamPopper.label>дрон-огнетушитель</Drone_FirefoamPopper.label>
+	<Drone_FirefoamPopper.description>Небольшой автономный дрон, предназначенный для броска в пламя и распыления противопожарной пены. Он жертвует собой, чтобы потушить пожар до того, как огонь успеет распространиться.</Drone_FirefoamPopper.description>
+
+</LanguageData>

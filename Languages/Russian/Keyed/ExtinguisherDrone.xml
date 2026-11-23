@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<ExtinguisherDrone.HomeAreaOnly>Только в домашней области</ExtinguisherDrone.HomeAreaOnly>
+	<ExtinguisherDrone.HomeAreaOnly.Desc>Если включено, дроны будут обнаруживать и тушить пожары только в пределах домашней области.</ExtinguisherDrone.HomeAreaOnly.Desc>
+
+	<ExtinguisherDrone.BatteryLabel>Заряд батареи</ExtinguisherDrone.BatteryLabel>
+	<ExtinguisherDrone.BatteryTooltip>Эй, сейчас не время читать подсказки! Там пожар начинается! Быстрее тушите!!!</ExtinguisherDrone.BatteryTooltip>
+
+</LanguageData>

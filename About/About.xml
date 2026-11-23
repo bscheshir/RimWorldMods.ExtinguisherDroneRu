@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Extinguisher Drone [RU]</name>
+	<author>BSCheshir</author>
+	<packageId>BSCheshir.ExtinguisherDroneRu</packageId>
+	<supportedVersions>
+		<li>1.6</li>
+		<li>1.7</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>Ludeon.RimWorld.Odyssey</packageId>
+			<displayName>Odyssey</displayName>
+		</li>
+		<li>
+			<packageId>rabiosus.extinguisherdrone</packageId>
+			<displayName>Extinguisher Drone</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/3555852714</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Odyssey</li>
+		<li>rabiosus.extinguisherdrone</li>
+	</loadAfter>
+	<description>
+		<![CDATA[
+Перевод мода «Extinguisher Drone» с сохранением авторских названий (огнетушитель вместо хлопушки) и пасхалок.
+
+Этот мод добавляет автономную пожарную ловушку с дроном-огнетушителем (на базе механики охотничьих дронов из DLC Odyssey). При обнаружении огня в радиусе действия ловушка выпускает одноразового дрона, который устремляется к очагу возгорания и тушит его взрывом противопожарной пены.
+]]>
+	</description>
+</ModMetaData>
